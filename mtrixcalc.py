@@ -142,7 +142,7 @@ if num == 3:
 #Menú de opciones
 
 print("\n-------MENU-------")
-print("1) Calcular determinante: ")
+print("1) Calcular determinante: \n")
 
 opc = input("\n:")
 
