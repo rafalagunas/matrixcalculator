@@ -21,7 +21,7 @@ def determinante2x2():
 
 	print "El determinante es:" + str(res)
 
-
+#Función para calcular determinante de matriz 3x3
 
 def determinante3x3():
 
