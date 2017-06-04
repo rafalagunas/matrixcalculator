@@ -146,7 +146,7 @@ print("1) Calcular determinante: \n")
 
 opc = input("\n:")
 
-if opc==1 & num==2:
+if num == 2:
 	determinante2x2();
 
 elif num==3:
